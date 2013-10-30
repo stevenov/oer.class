@@ -4,9 +4,9 @@ Open education resources (OER) are freely available and distributable course mat
 
 There are many definitions and interpretations of OER, but for the purposes of this class, the focus will be placed upon OER materials that are:
 
-*available at no cost to faculty and to students
-*can be modified by faculty and/or students
-*can be redistributed by faculty who have made changes to the original OER work
+* available at no cost to faculty and to students
+* can be modified by faculty and/or students
+* can be redistributed by faculty who have made changes to the original OER work
 
 Most of this information can be gathered from the license accompanying OER materials.
 
